@@ -1,0 +1,5 @@
+actor {
+    public func add(x: Nat, y : Nat): async Nat{
+        return (x + y);
+    };
+}
